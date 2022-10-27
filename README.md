@@ -8,7 +8,7 @@ This code converts an ascii VTK file to a binary VTK, VTI, VTP, or VTS file.
 
        sudo apt-get install g++ libomp-dev cmake -y
 
-2. Install *VTK *development:
+2. Install *VTK* development:
 
        sudo apt install libvtk5-dev -y
 
